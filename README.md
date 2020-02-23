@@ -54,7 +54,7 @@ Results:
 Analysis:we can set the model stable and can also underfit by using hyper parametera tuning 
 FileLinks: 
 https://github.com/mounikaduddukuri/S5/blob/master/S5_4.ipynb
-
+```
 ```
 S5-5
 1.setup model
@@ -62,8 +62,7 @@ S5-5
 3. Summarizing the model 
 4. using leaky relu 
 5. using the stepLR 
-Results:
-1. weights , summaries,Trainable params and the accuracy is obtained 
+Results: weights , summaries,Trainable params and the accuracy is obtained 
 Analysis:we can set the model stable and can also underfit by using hyper parametera tuning 
 FileLinks: 
 https://github.com/mounikaduddukuri/S5/blob/master/S5_5.ipynb
